@@ -15,18 +15,21 @@
 1. Убедитесь, что у вас установлен компилятор C (например, GCC).
 2. Скопируйте репозиторий:
 ```
- git clone https://github.com/ваше_имя_пользователя/Sudoku-.git
+bash
+git clone https://github.com/ваше_имя_пользователя/Sudoku-.git
 
-   cd Sudoku-
+cd Sudoku-
 ```
 3. Скомпилируйте код:
 ```
- gcc -o sudoku sudoku.c -lm
+bash
+gcc -o sudoku sudoku.c -lm
 ```
 ## Использование
 
 Запустите программу:
 ```
+bash
 ./sudoku
 ```
 ## Функции
