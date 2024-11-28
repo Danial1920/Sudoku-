@@ -30,7 +30,7 @@ gcc -o sudoku sudoku.c -lm
 ./sudoku
 ```
 ## Работа брутфорса:
-![Uploading IMG_1036.gif…]()
+
 
 
 
