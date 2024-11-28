@@ -16,7 +16,7 @@
 2. Скопируйте репозиторий:
 
 ```
-git clone https://github.com/ваше_имя_пользователя/Sudoku-.git
+git clone https://github.com/Danial1920/Sudoku-.git
 cd Sudoku-
 ```
 3. Скомпилируйте код:
