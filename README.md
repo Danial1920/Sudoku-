@@ -29,6 +29,10 @@ gcc -o sudoku sudoku.c -lm
 ```
 ./sudoku
 ```
+## Работа брутфорса:
+
+
+
 
 ## Функции
 
