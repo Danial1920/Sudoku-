@@ -19,11 +19,13 @@ bash
 git clone https://github.com/ваше_имя_пользователя/Sudoku-.git
 
 cd Sudoku-
+bash
 ```
 3. Скомпилируйте код:
 ```
 bash
 gcc -o sudoku sudoku.c -lm
+bash
 ```
 ## Использование
 
@@ -31,6 +33,7 @@ gcc -o sudoku sudoku.c -lm
 ```
 bash
 ./sudoku
+bash
 ```
 ## Функции
 
