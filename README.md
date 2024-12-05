@@ -16,20 +16,17 @@
 2. Скопируйте репозиторий:
 s
 ```
-bash
 git clone https://github.com/Danial1920/Sudoku-.git
 cd Sudoku-
 ```
 3. Скомпилируйте код:
 ```
-bash
 gcc -o sudoku sudoku.c -lm
 ```
 ## Использование
 
 Запустите программу:
 ```
-bash
 ./sudoku
 ```
 
